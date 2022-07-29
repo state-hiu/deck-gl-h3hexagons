@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deck-gl-h3hexagons/static/css/main.e6c13ad2.css",
+    "main.js": "/deck-gl-h3hexagons/static/js/main.7c2d908b.js",
+    "static/js/787.69cbf60d.chunk.js": "/deck-gl-h3hexagons/static/js/787.69cbf60d.chunk.js",
+    "static/js/mapbox-gl-csp-worker.53471612.worker.js": "/deck-gl-h3hexagons/static/js/mapbox-gl-csp-worker.53471612.worker.js",
+    "index.html": "/deck-gl-h3hexagons/index.html",
+    "main.e6c13ad2.css.map": "/deck-gl-h3hexagons/static/css/main.e6c13ad2.css.map",
+    "main.7c2d908b.js.map": "/deck-gl-h3hexagons/static/js/main.7c2d908b.js.map",
+    "787.69cbf60d.chunk.js.map": "/deck-gl-h3hexagons/static/js/787.69cbf60d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c2d908b.js"
+  ]
+}
